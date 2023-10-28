@@ -1,0 +1,1 @@
+console.log('appCode not register. appCode:dmsint');
